@@ -1,0 +1,7 @@
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCV_TeamProject_Winform.vcxproj.AssemblyReference.cache
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCVTeamProjectWinform.login.resources
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCVTeamProjectWinform.MyForm.resources
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCVTeamProjectWinform.SignUp.resources
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCV_TeamProject_Winform.vcxproj.GenerateResource.cache
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCVTeamProjectWinform.UserMenu.resources
+C:\opencv\OpenCV_TeamProject_Winform\OpenCV_T.622BC22E\x64\Debug\OpenCVTeamProjectWinform.InputBox.resources

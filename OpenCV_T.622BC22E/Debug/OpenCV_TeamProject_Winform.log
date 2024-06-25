@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\opencv\OpenCV_TeamProject_Winform\MyForm.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  (소스 파일 'MyForm.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
